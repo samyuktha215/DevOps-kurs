@@ -44,6 +44,6 @@ jobs:
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'Assignment215'
+          app-name: 'assignment216'
           slot-name: 'production'
           package: .
